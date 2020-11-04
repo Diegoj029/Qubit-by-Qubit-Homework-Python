@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 31 00:03:21 2020
-
-@author: diego
+@author: Diego Pérez Reyes
 """
 
 """"
